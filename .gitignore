@@ -1,0 +1,14 @@
+
+# App
+/.next
+
+# Endpoint
+/data
+
+# Generalized
+**/cypress/screenshots
+**/*.tsbuildinfo
+**/next-env.d.ts
+**/node_modules
+**/.env*
+**/yarn*
